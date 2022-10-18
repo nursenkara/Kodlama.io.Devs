@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IKsOF7AywDbLd0g3r1dI52qko4/lZSmW4ay07dOGciYD03f5ncGi1AfZkfmKz6GcXtsGorEsJdZLrx/U2Iqu2Q==",
+  "dgSpecHash": "16Stq9kLdvTdLjAm4a0gNaG4x5/CmgomhE+6CTnixloWjQ6b1kXIGZt/1FjwpN6fzMOyP0T4/C1K6Lq/uNgnHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nur.senkara\\Desktop\\Nur\\Kodlama.io.Devs\\Kodlama.io.Devs\\src\\kodlamaioDevs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nur.senkara\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\nur.senkara\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\nur.senkara\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\nur.senkara\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\nur.senkara\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\nur.senkara\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
