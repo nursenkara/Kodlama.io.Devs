@@ -1,0 +1,12 @@
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.deps.json
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\bin\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.AssemblyInfo.cs
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\refint\Kodlama.io.Devs.Infrastructure.dll
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Infrastructure\obj\Debug\net6.0\ref\Kodlama.io.Devs.Infrastructure.dll

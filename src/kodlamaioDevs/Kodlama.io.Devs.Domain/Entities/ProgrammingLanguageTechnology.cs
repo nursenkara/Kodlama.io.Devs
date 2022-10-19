@@ -11,7 +11,7 @@ namespace Kodlama.io.Devs.Domain.Entities
     {
         public int ProgrammingLanguageId { get; set; }
         public string Name { get; set; }
-        public ProgrammingLanguage ProgrammingLanguage { get; set; }
+        public virtual ProgrammingLanguage? ProgrammingLanguage { get; set; }
         public ProgrammingLanguageTechnology()
         {
 
