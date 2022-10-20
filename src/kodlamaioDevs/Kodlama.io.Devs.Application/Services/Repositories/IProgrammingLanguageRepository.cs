@@ -13,5 +13,6 @@ namespace Kodlama.io.Devs.Application.Services.Repositories
     /// </summary>
     public interface IProgrammingLanguageRepository: IAsyncRepository<ProgrammingLanguage>, IRepository<ProgrammingLanguage>
     {
+ 
     }
 }
