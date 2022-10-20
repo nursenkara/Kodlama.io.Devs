@@ -21,9 +21,7 @@
   <ItemGroup>
     <Folder Include="Features\ProgrammingLanguageTechnologies\Commands\DeleteProgrammingLanguageTechnology\" />
     <Folder Include="Features\ProgrammingLanguageTechnologies\Commands\UpdateProgrammingLanguageTechnology\" />
-    <Folder Include="Features\ProgrammingLanguageTechnologies\Constants\" />
     <Folder Include="Features\ProgrammingLanguageTechnologies\Models\" />
-    <Folder Include="Features\ProgrammingLanguageTechnologies\Rules\" />
     <Folder Include="Features\ProgrammingLanguageTechnologies\Queries\" />
     <Folder Include="Features\ProgrammingLanguageTechnologies\Profiles\" />
   </ItemGroup>

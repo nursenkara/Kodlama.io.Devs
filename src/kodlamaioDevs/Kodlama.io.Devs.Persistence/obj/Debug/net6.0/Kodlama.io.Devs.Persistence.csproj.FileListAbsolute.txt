@@ -17,3 +17,9 @@ C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDe
 C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
 C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Core.Security.pdb
 C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\obj\Debug\net6.0\Kodlama.io.Devs.Persistence.csproj.CopyComplete
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Core.Application.dll
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Kodlama.io.Devs.Application.dll
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Kodlama.io.Devs.Application.pdb
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Core.Application.pdb
+C:\Users\nur.senkara\Desktop\Nur\Kodlama.io.Devs\Kodlama.io.Devs\src\kodlamaioDevs\Kodlama.io.Devs.Persistence\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
