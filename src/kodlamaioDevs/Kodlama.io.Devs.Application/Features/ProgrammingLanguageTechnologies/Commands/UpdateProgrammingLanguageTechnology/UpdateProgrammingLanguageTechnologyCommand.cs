@@ -13,6 +13,9 @@ using System.Threading.Tasks;
 
 namespace Kodlama.io.Devs.Application.Features.ProgrammingLanguageTechnologies.Commands.UpdateProgrammingLanguageTechnology
 {
+    /// <summary>
+    /// Programlama Dili Teknolojisi Güncelleme Komutu
+    /// </summary>
     public class UpdateProgrammingLanguageTechnologyCommand : IRequest<UpdatedProgrammingLanguageTechnologyDto>
     {
         public int Id { get; set; }
@@ -31,7 +34,9 @@ namespace Kodlama.io.Devs.Application.Features.ProgrammingLanguageTechnologies.C
                 _mapper = mapper;
                 _programmingLanguageTechnologyBusinessRules = programmingLanguageTechnologyBusinessRules;
             }
-
+            /// <summary>
+            /// Programlama Dili Teknolojisi Güncellemek için kullanılan işleyici sınıfıdır.
+            /// </summary>
             public async Task<UpdatedProgrammingLanguageTechnologyDto> Handle(UpdateProgrammingLanguageTechnologyCommand request, CancellationToken cancellationToken)
             {
                 await _programmingLanguageTechnologyBusinessRules.ProgrammingTechnologyNameCanNotBeDuplicated(request.Name);

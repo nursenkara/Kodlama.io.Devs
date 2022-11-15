@@ -18,6 +18,8 @@ namespace Kodlama.io.Devs.Application.Features.ProgrammingLanguageTechnologies.C
         public const string NameIsRequired = "Name is required";
         public const string ProgrammingLanguageIdIsRequired = "Programming Language Id is required";
         public const string ProgrammingLanguageIdGreaterThanZero = "Programming language id is must be greater than zero";
+        public const string IdIsRequired = "Id is required";
+        public const string GreaterThanZero = "Id is greater than zero";
 
     }
 }
